@@ -1,0 +1,16 @@
+[
+    {
+    "learner_name" : "Rohit",
+    "learner_email" : "rohit123@gmail.com",
+    "learner_password" : "rohit@1234"
+    },
+    {
+    "learner_name" : "Ram",
+    "learner_email" : "ram123@gmail.com",
+    "learner_password" : "ram@1234"
+    },
+    {
+    "learner_name" : "Sita",
+    "learner_password" : "sita@1234"
+    }
+]

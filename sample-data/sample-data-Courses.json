@@ -1,0 +1,16 @@
+[
+    {
+        "course_id": 1,
+        "course_name": "AI",
+        "course_description": "Machine Learning and Data Science"
+    },
+    {
+        "course_id": 2,
+        "course_name": "ML_DL",
+        "course_description": "Deep Learning and Neural Networks"
+    },
+    {
+        "course_id": 3,
+        "course_name": "Fundamentals of BlockChain"
+    }
+]
